@@ -1,38 +1,32 @@
-# Hi there! 👋 I'm Jia He  
+# Hi My name is Jia He
 
-🎯 **Frontend Developer in Training**  
-Passionate about crafting clean, responsive web interfaces and continuously learning new technologies.  
+🎯 **Frontend Developer | React & Next.js**  
+Dedicated to building functional, polished web experiences and bridging the gap between design and code.
 
 ---
 
 ## 🌱 About Me  
 
-- 🌍 Based in **Seville, Spain**  
-- 🎓 Currently learning **JavaScript, React, TypeScript, and Tailwind CSS**  
-- 💡 I’ve followed guided tutorials and built a **Movie App**, and I regularly complete **Frontend Mentor challenges**  
-- 🔭 Exploring **APIs, state management**, and **modern frontend patterns**  
-- 🚀 My goal is to build more projects that turn ideas into smooth, user-friendly experiences  
+- 🌍 Based in **Seville, Spain**
+- 💻 Spent the last 2 years mastering web fundamentals and building full-scale projects since last summer. 
+- 🚀 Focused on turning complex designs into working products with **React** and **Next.js**.
+- 💼 Seeking my first **Junior Frontend** role.
 
----
-
-## 🚀 What I’m Learning  
-
-- Intermediate **React patterns** (context, hooks, custom hooks)  
-- Creating **responsive and accessible** UIs  
-- Getting started with **Next.js** and **Node.js**  
-
----
+--- 
 
 ## 🧰 Tech Stack  
 
-React · TypeScript · Tailwind CSS · JavaScript · Vite · HTML · CSS · Git  
-
+- **Frameworks:** React, Next.js
+- **Styling:** Tailwind CSS, CSS Modules, Sass
+- **Tools:** Git, Vite
+- 
 ---
 
 ## 💼 Projects & Challenges  
 
-- 🎬 **Movie App** — built with **React, TypeScript, and Tailwind CSS** (based on a course project, extended with my own improvements)  
-- 🧩 **Frontend Mentor Challenges** — hands-on projects to practice real-world UI building and responsive design  
+- **Audiophile E-commerce:** A multi-page store built with **React** and **Tailwind CSS**.
+- **Kanban Task Manager:** Complex CRUD logic and state management using **Next.js** and **Context API**.
+- **REST Countries API:** Data fetching and dynamic routing with **Next.js**.  
 
 ---
 
