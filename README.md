@@ -32,10 +32,10 @@ Dedicated to building functional, polished web experiences and bridging the gap 
 
 ## 📫 Contact & Socials  
 
+- 🌐 **Portfolio:** [my-portfolio-jia.netlify.app](https://my-portfolio-jia.netlify.app/)
+- 💬 **LinkedIn:** [Jia He](https://www.linkedin.com/in/jia-he-6b329197/)
+- 💼 **Frontend Mentor:** [JiaHe35354](https://www.frontendmentor.io/profile/JiaHe35354) 
 - ✉️ **Email:** [jia.he5823@gmail.com](mailto:jia.he5823@gmail.com)  
-- 💼 **Frontend Mentor:** [JiaHe35354](https://www.frontendmentor.io/profile/JiaHe35354)  
-- 💬 **LinkedIn:** [Jia He](https://www.linkedin.com/in/jia-he-6b329197/)  
-- 🌐 **Portfolio:** Coming soon!  
 
 ---
 
