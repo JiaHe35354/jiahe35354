@@ -45,7 +45,7 @@ Dedicated to building functional, polished web experiences and bridging the gap 
 
 ## 📊 GitHub Stats  
 
-![Jia He's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiaHe35354&show_icons=true&theme=tokyonight)  
+![Jia He's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiaHe35354&show_icons=true&theme=tokyonight&hide_rank=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiaHe35354&layout=compact&theme=tokyonight)
 
 
