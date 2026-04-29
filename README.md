@@ -7,12 +7,16 @@ Dedicated to building functional, polished web experiences and bridging the gap 
 
 ## 🌱 About Me  
 
-- 🌍 Based in **Seville, Spain**
 - 💻 Spent the last 2 years mastering web fundamentals and building full-scale projects since last summer. 
 - 🚀 Focused on turning complex designs into working products with **React** and **Next.js**.
 - 💼 Seeking my first **Junior Frontend** role.
 
 --- 
+
+## What I'm learning
+
+- 📘 **TypeScript:** Currently mastering types and interfaces to bring type-safety to my development workflow.
+- 🔄 **Refactoring:** My next goal is to migrate my existing React and Next.js projects (like the Kanban and Audiophile apps) from JavaScript to TypeScript.
 
 ## 🧰 Tech Stack  
 
