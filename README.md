@@ -1,4 +1,4 @@
-# Hi My name is Jia He
+# Hi! My name is Jia He
 
 🎯 **Frontend Developer | React & Next.js**  
 Dedicated to building functional, polished web experiences and bridging the gap between design and code.
