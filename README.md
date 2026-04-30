@@ -20,10 +20,11 @@ Dedicated to building functional, polished web experiences and bridging the gap 
 
 ## 🧰 Tech Stack  
 
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
 - **Frameworks:** React, Next.js
 - **Styling:** Tailwind CSS, CSS Modules, Sass
 - **Tools:** Git, Vite
-- 
+  
 ---
 
 ## 💼 Projects & Challenges  
