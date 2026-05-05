@@ -1,4 +1,4 @@
-# Hi! My name is Jia He
+# Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jia He
 
 **Frontend Developer | React & Next.js**  
 Dedicated to building functional, polished web experiences and bridging the gap between design and code.
