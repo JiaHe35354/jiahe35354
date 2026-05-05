@@ -46,11 +46,11 @@ Dedicated to building functional, polished web experiences and bridging the gap 
 
 ## GitHub Stats  
 
-[![JiaHe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahe35354)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiaHe35354&show_icons=true&theme=tokyonight&hide_rank=true1" height="250" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaHe35354&layout=compact&theme=tokyonight" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jiahe35354&show_icons=true&theme=tokyonight&hide_rank=true1" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahe35354&layout=compact&theme=tokyonight" height="250" />
 </p>
 
 
