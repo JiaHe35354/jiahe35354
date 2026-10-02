@@ -30,7 +30,7 @@ Git · GitHub · Docker · Vite
   Full-stack task management application built with Laravel, Inertia.js, React, TypeScript, and PostgreSQL. Includes authentication, authorization, server-side validation, drag-and-drop, and persistent task ordering.
 
 - **Kanban Task Management — Next.js**
-  Earlier version of my Kanban application built with Next.js, React, and Firebase/Firestore.
+  Earlier version of my Kanban application built with Next.js and Firebase/Firestore.
   
 - **Audiophile E-commerce**
   Responsive e-commerce SPA built with React, React Router, and Tailwind CSS.
