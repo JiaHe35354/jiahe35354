@@ -1,45 +1,49 @@
-# Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jia He
+# Hi I'm Jia He ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-**Frontend Developer | React & Next.js**  
-Dedicated to building functional, polished web experiences and bridging the gap between design and code.
+**Frontend / Full-Stack Developer based in Seville, Spain.**  
 
----
+I build practical web applications with React, TypeScript, and Laravel, with a focus on responsive interfaces, clean application logic, and persistent data.
 
-##  About Me  
-
-- Spent the last 2 years mastering web fundamentals and building full-scale projects since last summer. 
-- Focused on turning complex designs into working products with **React** and **Next.js**.
-- Seeking my first **Junior Frontend** role.
+Currently seeking my first professional software development role.
 
 --- 
 
-## What I'm learning
-
-- **TypeScript:** Currently mastering types and interfaces to bring type-safety to my development workflow.
-- **Refactoring:** My next goal is to migrate my existing React and Next.js projects (like the Kanban and Audiophile apps) from JavaScript to TypeScript.
-
 ## Tech Stack  
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frameworks:** React, Next.js
-- **Styling:** Tailwind CSS, CSS Modules, Sass
-- **Tools:** Git, Vite
+**Frontend**
+React · TypeScript · JavaScript · Next.js · Tailwind CSS
+
+**Backend** 
+PHP · Laravel · Inertia.js
+
+**Database** 
+PostgreSQL · Firebase / Firestore
+
+**Tools** 
+Git · GitHub · Docker · Vite
+
+---
+
+## Featured Projects 
+
+- **Kanban Task Management — Laravel**
+  Full-stack task management application built with Laravel, Inertia.js, React, TypeScript, and PostgreSQL. Includes authentication, authorization, server-side validation, drag-and-drop, and persistent task ordering.
+
+- **Kanban Task Management — Next.js**
+  Earlier version of my Kanban application built with Next.js, React, and Firebase/Firestore.
   
----
-
-## Projects & Challenges  
-
-- **Audiophile E-commerce:** A multi-page store built with **React** and **Tailwind CSS**.
-- **Kanban Task Manager:** Complex CRUD logic and state management using **Next.js** and **Context API**.
-- **REST Countries API:** Data fetching and dynamic routing with **Next.js**.  
+- **Audiophile E-commerce**
+  Responsive e-commerce SPA built with React, React Router, and Tailwind CSS.
+  
+- **REST Countries**
+  Country information application built with Next.js and a REST API.
 
 ---
 
-## Contact & Socials  
+## Links
 
 - **Portfolio:** [my-portfolio-jia.netlify.app](https://my-portfolio-jia.netlify.app/)
-- **LinkedIn:** [Jia He](https://www.linkedin.com/in/jia-he-6b329197/)
-- **Frontend Mentor:** [JiaHe35354](https://www.frontendmentor.io/profile/JiaHe35354) 
+- **LinkedIn:** [Jia He](https://www.linkedin.com/in/jiahe-fullstack/)
 - **Email:** [jia.he5823@gmail.com](mailto:jia.he5823@gmail.com)  
 
 ---
