@@ -2,7 +2,7 @@
 
 **Frontend / Full-Stack Developer based in Seville, Spain.**  
 
-I build practical web applications with React, TypeScript, and Laravel, with a focus on responsive interfaces, clean application logic, and persistent data.
+I build practical web applications with React, TypeScript, and Laravel, with a focus on responsive interfaces, backend functionality, and persistent data.
 
 Currently seeking my first professional software development role.
 
