@@ -15,28 +15,35 @@ Currently seeking my first professional software development role.
 React · TypeScript · JavaScript · Next.js · Tailwind CSS
 
 **Backend** 
+
 PHP · Laravel · Inertia.js
 
 **Database** 
+
 PostgreSQL · Firebase / Firestore
 
 **Tools** 
+
 Git · GitHub · Docker · Vite
 
 ---
 
 ## Featured Projects 
 
-- **Kanban Task Management — Laravel**
+**Kanban Task Management — Laravel**
+
   Full-stack task management application built with Laravel, Inertia.js, React, TypeScript, and PostgreSQL. Includes authentication, authorization, server-side validation, drag-and-drop, and persistent task ordering.
 
-- **Kanban Task Management — Next.js**
+**Kanban Task Management — Next.js**
+
   Earlier version of my Kanban application built with Next.js and Firebase/Firestore.
   
-- **Audiophile E-commerce**
+**Audiophile E-commerce**
+
   Responsive e-commerce SPA built with React, React Router, and Tailwind CSS.
   
-- **REST Countries**
+**REST Countries**
+
   Country information application built with Next.js and a REST API.
 
 ---
