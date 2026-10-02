@@ -11,7 +11,7 @@ Currently seeking my first professional software development role.
 ## Tech Stack  
 
 **Frontend**
-React · TypeScript · JavaScript · Next.js · Tailwind CSS
+- React · TypeScript · JavaScript · Next.js · Tailwind CSS
 
 **Backend** 
 PHP · Laravel · Inertia.js
